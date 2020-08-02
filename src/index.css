@@ -22,4 +22,10 @@ body {
 
 a {
   color: inherit;
-} 
+}
+
+#root {
+  min-height: 86vh;
+  display: flex;
+  flex-direction: column;
+}
