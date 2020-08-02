@@ -6,7 +6,7 @@ import './index.css';
 
 import Home from './pages/home/Home';
 import CadastroVideo from './pages/cadastro/video/CadastroVideo.js';
-import CadastroCategoria from './pages/cadastro/Categoria/CategoriaVideo';
+import CadastroCategoria from './pages/cadastro/categoria/CategoriaVideo';
 import Page404 from './pages/404/Page404.js';
 
 ReactDOM.render(
