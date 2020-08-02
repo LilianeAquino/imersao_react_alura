@@ -17,9 +17,6 @@ function CadastroCategoria(){
         </form>
 
 
-
-
-
         <Link to='/'>
             Ir para a home
         </Link>
